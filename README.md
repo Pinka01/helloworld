@@ -3,3 +3,7 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 }  
+class abs{
+void prin()
+System.out.println("hii");
+}
